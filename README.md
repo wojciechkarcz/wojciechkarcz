@@ -6,7 +6,6 @@ I’m a head of the makerspace called “Wytwórnia” in Copernicus Science Cen
 - In my work I use technologies such as: Python, Linux, Bash, HTML/CSS, SQL, REST API, Arduino Programming Language.
 - Fun fact - I am a home brewer :) Even one of my beers won a nationwide competition. As a reward, it was brewed in a professional brewery based on my recipe.
 - Reach me out: LinkedIn
-<br>
 
 I have been interested in data analysis and data science for some time. Here you will find my current projects:
 - One year of measuring outside temperature - exploratory data analysis
