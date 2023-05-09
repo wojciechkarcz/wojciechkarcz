@@ -8,6 +8,7 @@ I’m a head of the makerspace called “Wytwórnia” in Copernicus Science Cen
 - 📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/wojciechkarcz/)  
 
 I have been interested in data analysis and data science for some time. Here you will find my current projects:
+- [King County house sales app](https://github.com/wojciechkarcz/King-County-house-sales-app)
 - [Wroclaw Bike Stats - web application](https://github.com/wojciechkarcz/Wroclaw-Bike-Stats)
 - [E-commerce data analysis using SQL](https://github.com/wojciechkarcz/E-commerce-data-analysis-using-SQL)
 - [One year of measuring outside temperature - exploratory data analysis](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis)
