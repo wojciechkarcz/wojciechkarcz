@@ -1,9 +1,9 @@
 ### Hi there, I'm Wojciech Karcz 👋
 
-I’m a head of the makerspace called “Wytwórnia” in Copernicus Science Centre (Warsaw, Poland). My main job is conducting practical workshops for children, youth and adults related to the making, DIY, tinkering and design. Additionally, I participate in a number of R&D projects regarding the study of learning processes and the design of new educational tools.  
+I’m a Junior Data Engineer at Bosch Digital.  
 - 🎓 I am a materials engineer by education. I graduated from the Faculty of Materials Science at the Warsaw University of Technology  
 - 🤖 I’m a big fan of Arduino and Raspberry Pi, especially for educational applications and for the implementation of your own DIY projects  
-- ⚡️ In my work I use technologies such as: Python, Linux, Bash, HTML/CSS, SQL, REST API, Arduino Programming Language.  
+- ⚡️ In my work I use technologies such as: Python, Linux, Bash, SQL, GCP (Bigquery), Hadoop, Apache Airflow.  
 - 🍺 Fun fact - I am a home brewer :) Even one of my beers won a nationwide competition. As a reward, it was brewed in a professional brewery based on my recipe.  
 - 📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/wojciechkarcz/)  
 
