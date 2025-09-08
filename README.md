@@ -1,14 +1,26 @@
 ### Hi there, I'm Wojciech Karcz 👋
 
-I’m a Data Engineer at Bosch Digital.  
-- 🎓 I am a materials engineer by education. I graduated from the Faculty of Materials Science at the Warsaw University of Technology.  
-- ⚡️ In my work I use technologies such as: Python, Azure Databricks, Linux, Bash, SQL, GCP (BigQuery), Hadoop, PySpark, Jenkins, Docker.
-- 🤖 I’m a big fan of Arduino and Raspberry Pi, especially for educational applications and for the implementation of your own DIY projects.    
-- 🍺 Fun fact - I am a home brewer :) Even one of my beers won a nationwide competition. As a reward, it was brewed in a professional brewery based on my recipe.
-- 🎙 I have my own podcast "Nauka przez całe życie" about self-learning new skills.
-- 📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/wojciechkarcz/)  
+I’m a **Data Engineer with 2+ years of experience at Bosch**, passionate about building reliable data pipelines, automating ETL processes, and creating business intelligence solutions.
 
-I have been interested in data analysis and data science for some time. Here you will find my current projects:
+🎓 **Background:** Materials Science Engineer with a strong technical foundation.  
+📊 **Data domains:** sales, marketing, UX/UI, mobile app performance, hardware, log/issues monitoring.  
+🛠️ **Tech stack:**
+- Python • SQL • Databricks • BigQuery (GCP)
+- Docker • Jenkins • Git
+- Linux • Bash
+- Power BI
+
+💡 **What I do:**
+- Build and optimize data pipelines
+- Automate ETL workflows
+- Develop dashboards and BI reports
+- Explore data science (ML basics, pipelines)
+
+🌍 Currently available for freelance & part-time projects (10–15h/week), open to remote collaborations in Europe and the US.
+
+📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/wojciechkarcz/)  
+
+And here you will find my current projects I work on in my spare time:
 - [DIY Energy Meter](https://github.com/wojciechkarcz/energy-meter) - data engineering and analytics project
 - [Wroclaw Bike Stats](https://github.com/wojciechkarcz/Wroclaw-Bike-Stats) - data sandbox project
 - [King County house sales app](https://github.com/wojciechkarcz/King-County-house-sales-app)
